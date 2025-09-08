@@ -1,6 +1,6 @@
 Meu nome é Ana Paula e atualmente estou no 1º semestre do curso de Análise e Desenvolvimento de Sistemas.
 
-🎯 Objetivo profissional: atuar como Desenvolvedora Front-End.
+🎯 Objetivo: atuar como Desenvolvedora Front-End.
 
 🚀 Tecnologias e habilidades em aprendizado:
 
